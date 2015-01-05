@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../src/tutorial02.cpp 
+../src/figure.cpp 
 
 OBJS += \
-./src/tutorial02.o 
+./src/figure.o 
 
 CPP_DEPS += \
-./src/tutorial02.d 
+./src/figure.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
