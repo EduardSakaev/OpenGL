@@ -2,6 +2,13 @@ There is Open GL tutorials.
 For compile projects for linux 
 right click on project -> properties -> GCCC++Linker -> Libraries -> add(GL, GLU, glut, GLEW)
 
+
+OpenGL Lessons!!!!
+http://opengl-tutorial.blogspot.com/
+material:
+https://code.google.com/p/opengl-tutorial-org/source/browse/
+
+
 1) Need to install GL libraries, glew, glfw, glm!!!!!
 
 http://web.eecs.umich.edu/~sugih/courses/eecs487/glut-howto/
