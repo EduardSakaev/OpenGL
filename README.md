@@ -9,6 +9,9 @@ material:
 https://code.google.com/p/opengl-tutorial-org/source/browse/
 
 
+local branch: hg clone https://code.google.com/p/opengl-tutorial-org/
+need to copy common folder to /usr/local/include
+
 1) Need to install GL libraries, glew, glfw, glm!!!!!
 
 http://web.eecs.umich.edu/~sugih/courses/eecs487/glut-howto/
